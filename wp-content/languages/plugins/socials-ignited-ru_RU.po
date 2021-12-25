@@ -1,0 +1,296 @@
+# Translation of Plugins - Socials Ignited - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Socials Ignited - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-14 16:06:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Socials Ignited - Stable (latest release)\n"
+
+#: includes/widget.php:172
+msgid "Display the Socials set in the Customizer."
+msgstr "Отображение набора соцсетей в настройщике."
+
+#: includes/customizer.php:45
+msgid "RSS Feed"
+msgstr "RSS лента"
+
+#. translators: %s is a social network's name, e.g.: Facebook URL
+#: includes/customizer.php:34
+msgctxt "social network url"
+msgid "%s URL"
+msgstr "%s URL"
+
+#: includes/customizer.php:16
+msgid "Below you can fill in the URLs of your profiles on the most popular social networks and pull them in the Socials Ignited Widget without having to manually create them."
+msgstr "Ниже вы можете заполнить URL-адреса ваших профилей в самых популярных социальных сетях и вытащить их в Socials Ignited Widget без необходимости создавать их вручную."
+
+#: includes/customizer.php:14
+msgctxt "customizer section title"
+msgid "Social networks"
+msgstr "Соцсети"
+
+#: includes/customizer.php:9
+msgctxt "customizer section title"
+msgid "Socials Ignited"
+msgstr "Socials Ignited"
+
+#: includes/admin-page.php:81 includes/widget.php:169
+msgid "Opacity (0.1 - 1):"
+msgstr "Прозрачность (0.1 - 1):"
+
+#: includes/admin-page.php:75 includes/widget.php:168
+msgid "Border Width (px):"
+msgstr "Ширина обводки (px):"
+
+#: includes/admin-page.php:63 includes/widget.php:166
+msgid "Border Radius (px):"
+msgstr "Радиус обводки (px):"
+
+#: includes/admin-page.php:57 includes/widget.php:165
+msgid "Background Size (px):"
+msgstr "Размер фона (px):"
+
+#: includes/admin-page.php:51 includes/widget.php:164
+msgid "Icon Size (px):"
+msgstr "Размер значка (px):"
+
+#: socials-ignited.php:286
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: socials-ignited.php:281
+msgid "Behance"
+msgstr "Behance"
+
+#: socials-ignited.php:276
+msgid "Etsy"
+msgstr "Etsy"
+
+#: socials-ignited.php:271
+msgid "Telegram"
+msgstr "Telegram"
+
+#: socials-ignited.php:266
+msgid "Trip Advisor"
+msgstr "TripAdvisor"
+
+#: socials-ignited.php:261
+msgid "500px"
+msgstr "500px"
+
+#: socials-ignited.php:256
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: socials-ignited.php:251
+msgid "Bloglovin"
+msgstr "Bloglovin'"
+
+#: socials-ignited.php:246
+msgid "PlayStation Network"
+msgstr "PlayStation Network"
+
+#: socials-ignited.php:241
+msgid "Xbox Live"
+msgstr "Xbox Live"
+
+#: socials-ignited.php:236
+msgid "WordPress"
+msgstr "WordPress"
+
+#: socials-ignited.php:231
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: socials-ignited.php:226
+msgid "Spotify"
+msgstr "Spotify"
+
+#: socials-ignited.php:221
+msgid "Soundcloud"
+msgstr "SoundCloud"
+
+#: socials-ignited.php:216
+msgid "Slack"
+msgstr "Slack"
+
+#: socials-ignited.php:211
+msgid "Skype"
+msgstr "Skype"
+
+#: socials-ignited.php:206
+msgid "PayPal"
+msgstr "PayPal"
+
+#: socials-ignited.php:201
+msgid "Mixcloud"
+msgstr "Mixcloud"
+
+#: socials-ignited.php:196
+msgid "Quora"
+msgstr "Quora"
+
+#: socials-ignited.php:191
+msgid "Medium"
+msgstr "Средний"
+
+#: socials-ignited.php:186
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: socials-ignited.php:181
+msgid "GitHub"
+msgstr "GitHub"
+
+#: socials-ignited.php:176
+msgid "WeChat"
+msgstr "WeChat"
+
+#: socials-ignited.php:171
+msgid "Flickr"
+msgstr "Flickr"
+
+#: socials-ignited.php:166
+msgid "YouTube"
+msgstr "YouTube"
+
+#: socials-ignited.php:161
+msgid "Reddit"
+msgstr "reddit"
+
+#: socials-ignited.php:156
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: socials-ignited.php:151
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: socials-ignited.php:146
+msgid "TikTok"
+msgstr "TikTok"
+
+#: socials-ignited.php:141
+msgid "Facebook Messenger"
+msgstr "Facebook Messenger"
+
+#: socials-ignited.php:136
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: socials-ignited.php:131
+msgid "Instagram"
+msgstr "Instagram"
+
+#: socials-ignited.php:126
+msgid "Twitter"
+msgstr "Twitter"
+
+#: socials-ignited.php:121
+msgid "Facebook"
+msgstr "Facebook"
+
+#. Description of the plugin
+msgid "Easily create links to all your social profiles with Socials Ignited"
+msgstr "Легко создавайте ссылки на все свои социальные профили с помощью Socials Ignited"
+
+#. Author URI of the plugin
+msgid "https://www.cssigniter.com/"
+msgstr "https://www.cssigniter.com/"
+
+#. Author of the plugin
+msgid "The CSSIgniter Team"
+msgstr "Команда CSSIgniter"
+
+#. Plugin URI of the plugin
+msgid "https://www.cssigniter.com/socials-ignited/"
+msgstr "https://www.cssigniter.com/socials-ignited/"
+
+#: socials-ignited.php:104
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/widget.php:199
+msgid "Add Field"
+msgstr "Добавить поле"
+
+#: includes/widget.php:186 includes/widget.php:196
+msgid "Remove me"
+msgstr "Удали меня"
+
+#: includes/widget.php:185 includes/widget.php:195
+msgid "Title text (optional):"
+msgstr "Текст названия (необязательно):"
+
+#: includes/widget.php:184 includes/widget.php:194
+msgid "Link URL:"
+msgstr "URL ссылки:"
+
+#: includes/widget.php:183 includes/widget.php:193
+msgid "Icon Code:"
+msgstr "Код значка:"
+
+#: includes/widget.php:171
+msgid "Add <code>rel=\"nofollow\"</code> to links."
+msgstr "Добавить <code>rel=\"nofollow\"</code> к ссылкам."
+
+#: includes/widget.php:170
+msgid "Open in new window."
+msgstr "Открывается в новом окне."
+
+#: includes/widget.php:161
+msgid "Title:"
+msgstr "Название:"
+
+#. translators: %s is a URL.
+#: includes/widget.php:147
+msgid "To add icons click on \"Add Icon\" at the bottom of the widget and then insert the <em>Icon code</em> and its <em>Link URL</em>. Icon codes can be found <a target=\"_blank\" href=\"%s\">here</a>, type them exactly as they are shown (with fa* fa- in front), e.g. <strong>fab fa-facebook</strong>. You can also drag and drop the boxes to rearrange the icons."
+msgstr "Чтобы добавить значки, нажмите на \"Добавить значок\" в нижней части виджета, а затем вставьте <em>код значка</em> и ее <em> URL ссылки</em>. Коды значков можно найти <a target=\"_blank\" href=\"%s\">здесь</a>, введите их точно так, как они показаны (с fa* fa- впереди), например, <strong>fab fa-facebook</strong>. Вы также можете перетаскивать поля, чтобы изменить расположение значков."
+
+#: includes/widget.php:23
+msgid "Social Icons widget, FontAwesome edition"
+msgstr "Виджет Социальные значки, редакция FontAwesome"
+
+#: includes/admin-page.php:105
+msgctxt "plugin name"
+msgid "Socials Ignited"
+msgstr "Socials Ignited"
+
+#: includes/admin-page.php:105
+msgid "Socials Ignited Widget Options"
+msgstr "Параметры Socials Ignited Widget"
+
+#: includes/admin-page.php:89
+msgid "Save Options"
+msgstr "Сохранить параметры"
+
+#: includes/admin-page.php:69 includes/widget.php:167
+msgid "Border Color:"
+msgstr "Цвет обводки:"
+
+#: includes/admin-page.php:45 includes/widget.php:163
+msgid "Icon Background Color:"
+msgstr "Цвет фона значка:"
+
+#: includes/admin-page.php:39 includes/widget.php:162
+msgid "Icon Color:"
+msgstr "Цвет значка:"
+
+#: includes/admin-page.php:35
+msgid "Default font widget settings"
+msgstr "Настройки виджета шрифта по умолчанию"
+
+#. translators: %s is a URL.
+#: includes/admin-page.php:28
+msgid "Brought to you by the fine folks of <a href=\"%s\">CSSIgniter</a>."
+msgstr "Предоставлено вам прекрасной командой <a href=\"%s\">CSSIgniter</a>."
+
+#. Plugin Name of the plugin
+#: includes/admin-page.php:23 includes/widget.php:22
+msgid "Socials Ignited"
+msgstr "Socials Ignited"
